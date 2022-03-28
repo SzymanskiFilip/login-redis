@@ -23,7 +23,9 @@ public class LoginController {
     }
 
     @PostMapping("/check")
-    public void check(){}
+    public void check(){
+
+    }
 
 
 }
